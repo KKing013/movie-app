@@ -8,7 +8,7 @@
 </p>
 
 > ### Movie database application with integrated API.
-> gsgsdsd
+> 
 
 
 
