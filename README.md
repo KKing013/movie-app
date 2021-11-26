@@ -8,7 +8,12 @@
 </p>
 
 > ### Movie database application with integrated API.
-> gsgsdsd
+> Popular movies and current movies pulled from API 
+> Information on each movie 
+> Popular tv shows and current tv shows pulled from API
+> Information on each tv show
+> Search functionality for movies and tv shows
+> Actors information 
 
 
 
