@@ -8,12 +8,17 @@
 </p>
 
 > ### Movie database application with integrated API.
-> Popular movies and current movies pulled from API 
-> Information on each movie 
-> Popular tv shows and current tv shows pulled from API
-> Information on each tv show
-> Search functionality for movies and tv shows
-> Actors information 
+          Popular movies and current movies pulled from API 
+Information on each movie 
+Popular tv shows and current tv shows pulled from API
+Information on each tv show
+Search functionality for movies and tv shows
+        Actors information 
+        
+    Get sample csv file from directory
+    Read the transactions from the sample csv and parse
+    Arrange into rows with fields and output the transactions with custom dollar and date formatting
+    Each field is calculated with total income, expenses and net as displayed in the view
 
 
 
